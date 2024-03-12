@@ -39,7 +39,7 @@ If you want to deploy to the Google cloud App engine, install the [gcloud cli](h
 gcloud app deploy
 ```
 
-Akter to run the app locally, run the following command:
+To run the app locally, run the following command:
 
 ```bash
 conda create -n setu_dashboard python=3.9
